@@ -1,0 +1,35 @@
+body{
+  font-family: 'Arial';
+}
+
+#portada{
+  background-color: lightblue;
+  text-align: center;
+  padding: 0 20px 50px;
+}
+
+.icons{
+  width: 20px;
+}
+
+.perfil{
+  width: 150px;
+  border: solid 3px blue;
+  border-radius:  75px;
+}
+
+#solo{
+  font-size: 55px;
+}
+
+#s0lo{
+  font-size: 31px;
+}
+
+a{
+  background-color: white;
+  padding: 3px 150px;
+  border-radius: 10px;
+}
+
+
